@@ -1,2 +1,3 @@
-# odin-rock-paper-scissors
-The Odin Project: Rock Paper Scissors
+# Rock Paper Scissors Game (for The Odin Project)
+🔴 Live demo 👉 https://eduardokozerski.github.io/odin-rock-paper-scissors/
+
